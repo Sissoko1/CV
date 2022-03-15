@@ -1,0 +1,60 @@
+h1{
+	color: skyblue;
+	background-color: blue;
+	text-align: center;
+}
+
+
+	.infos
+
+	{
+		width: 80%;
+		background-color: red;
+		margin-left: 10%;
+
+	}
+
+.section1{
+
+	float: right;
+	width: 35%;
+
+
+}
+.section2{ margin-top: 17%;
+	width: 40%;
+}	
+.section3{ 
+
+	float:left;
+	max-width: 40%;
+	margin-left: 10%;
+	background-color: hotpink;
+	height: 525px;
+	
+
+}
+.class1{
+	margin-right: 50%;
+	color: violet;
+	 
+	 text-align: center;"
+
+	 
+
+}
+.class2{
+
+	color: violet;
+	margin-left: 40%;
+}
+
+img{
+	border-radius: 50%;
+}
+.droite{
+	float: right;
+	background-color: lightblue;
+	max-width: 40%;
+	margin-right: 10%;
+}
